@@ -37,7 +37,6 @@ while True:
                 else:
                     category = "Unspecified"
                 
-                # Save details
                 user = {
                     "name": name,
                     "phone": phone,
